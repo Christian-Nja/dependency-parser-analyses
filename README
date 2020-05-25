@@ -4,3 +4,6 @@ Per le analisi è stato usato lo script conll_ud_statistics_0_9.py .
 Per informazioni su come usare lo script:
 
 $ python3 conll_ud_statistics_0_9.py --help
+
+* NOTE: lo script dipende da conll18_ud_eval.py
+Dependencies: matplotlib
